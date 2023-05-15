@@ -19,7 +19,7 @@ Download the provided project and open it in CLion.
 You cannot compare floats or doubles as they are not exact representations of numbers. They are stored in binary form, and there is always some rounding error. This means that two doubles or floats that are mathematically equal may not be equal when stored in computer memory.
 ```c
 bool equals_dbl(double d1, double d2) {  
-    if( fabs(d1 - d2) < 00001){  
+    if( fabs(d1 - d2) < 0.00000001){  
         return true;  
     }  
     else{  
@@ -243,7 +243,7 @@ size_t set_index_of(const set_t *set, double value) {
     size_t hi = set->count;  
   
     while (lo < hi) {  
-        size_t mid = (lo + hi) / 2;  
+        size_t mid = (lo + (hi - lo)) / 2;  
   
         int cmp_result = set->cmp_fun(set->data[mid], value);  
         if (cmp_result == 0) {  
