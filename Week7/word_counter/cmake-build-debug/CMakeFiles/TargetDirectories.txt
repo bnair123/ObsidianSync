@@ -1,0 +1,5 @@
+C:/Users/bnair/Downloads/dictionaries/dictionaries/word_counter/cmake-build-debug/CMakeFiles/word_counter.dir
+C:/Users/bnair/Downloads/dictionaries/dictionaries/word_counter/cmake-build-debug/CMakeFiles/test_counter.dir
+C:/Users/bnair/Downloads/dictionaries/dictionaries/word_counter/cmake-build-debug/CMakeFiles/generic_functions.dir
+C:/Users/bnair/Downloads/dictionaries/dictionaries/word_counter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bnair/Downloads/dictionaries/dictionaries/word_counter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
