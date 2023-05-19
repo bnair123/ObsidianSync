@@ -63,8 +63,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/bnair/Downloads/dictionaries/dictionaries/word_counter/cmake-build-debug",
-		"source" : "C:/Users/bnair/Downloads/dictionaries/dictionaries/word_counter"
+		"build" : "C:/Users/bnair/Documents/Obsidian/ACSForSaxion/ObsidianSync/Week7/word_counter/cmake-build-debug",
+		"source" : "C:/Users/bnair/Documents/Obsidian/ACSForSaxion/ObsidianSync/Week7/word_counter"
 	},
 	"version" : 
 	{

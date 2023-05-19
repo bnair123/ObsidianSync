@@ -4,10 +4,9 @@
 
 >Members:
 >
->- Member one
->- Member two
+>-  Bharath Nair
 >
-> Date: *day* *month* 2023                                                   |      |
+> Date: *19* *May* 2023                                                   |      |
 
 ## Activities
 
